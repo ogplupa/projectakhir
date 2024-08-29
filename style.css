@@ -1,0 +1,10 @@
+/* Gaya tambahan jika diperlukan */
+.card-img-top {
+    object-fit: cover;
+    height: 300px;
+}
+
+/* Menambahkan margin pada card-header */
+.card-header {
+    margin-bottom: 1rem;
+}
